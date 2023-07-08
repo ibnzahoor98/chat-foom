@@ -2,6 +2,7 @@
 Chat Foom is a popular public chatting app that allows users from all around the world to engage in real-time conversations, share ideas, and connect with others who have similar interests. It provides a platform for individuals to communicate and express themselves freely in a safe and inclusive environment.
 
 Visit project at: https://chat-foom.web.app/
+Design: https://www.figma.com/file/JkZPkfEQ9ge3eOevwgrjhd/React-Chat-Room?type=design&node-id=0%3A1&mode=design&t=lBQ8cYNEg3yVPWwI-1
 
 
 I'm proud to share the project I developed over the course of three days, I created a chat application as a test for the firm called Monke Labs. The app includes several key features that enhance the user experience.
